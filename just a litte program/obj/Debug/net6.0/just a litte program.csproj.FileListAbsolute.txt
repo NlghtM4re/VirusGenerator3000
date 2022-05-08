@@ -1,0 +1,23 @@
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\bin\Debug\net6.0\just a litte program.exe
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\bin\Debug\net6.0\just a litte program.deps.json
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\bin\Debug\net6.0\just a litte program.runtimeconfig.json
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\bin\Debug\net6.0\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\bin\Debug\net6.0\just a litte program.pdb
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.csproj.AssemblyReference.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.AssemblyInfoInputs.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.AssemblyInfo.cs
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.csproj.CoreCompileInputs.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\refint\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.pdb
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\just a litte program.genruntimeconfig.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\just a litte program\obj\Debug\net6.0\ref\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.csproj.AssemblyReference.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.AssemblyInfoInputs.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.AssemblyInfo.cs
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.csproj.CoreCompileInputs.cache
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\refint\just a litte program.dll
+C:\Users\Émile\OneDrive - Collège Saint-Hilaire\Bureau\justALittle Program\obj\Debug\net6.0\just a litte program.pdb
