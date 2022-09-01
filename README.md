@@ -1,3 +1,4 @@
 # VirusGenerator3000
 
-download fils and lunch if you see this
+lunch .exe fils /bin/debug/net6.0
+
